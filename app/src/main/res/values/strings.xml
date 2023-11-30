@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DefaultSMSApp</string>
+    <string name="enable_default_app">Make App Default SMS App</string>
+</resources>
